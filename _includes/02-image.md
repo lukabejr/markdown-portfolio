@@ -1,1 +1,2 @@
 ![Image of Chanda](C:\Users\cluka\OneDrive\Documents\GitHub\markdown-portfolio\_includes\Pic.jpg)
+![Second Image of Chanda](C:\Users\cluka\OneDrive\Documents\GitHub\markdown-portfolio\_includes\Pic.jpeg)
